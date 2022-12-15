@@ -1,0 +1,29 @@
+.tabl{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.name{
+    text-align: left;
+    justify-content: left;
+    padding-right: 200px;
+}
+.tadisbl{
+    text-align: left;
+}
+.flaxx{
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    padding: 30px;
+    
+
+}
+.new{
+    padding-left: 140px;
+}
+.pad{
+    padding-top: 30px;
+}
+.pdd{
+    padding-top: 30px;
+}
